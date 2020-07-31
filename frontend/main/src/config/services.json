@@ -1,0 +1,86 @@
+{
+  "AC Technicians": [
+    "AC-deep-cleaning.jpg",
+    "AC-Soft-Service.jpg",
+    "coil-cleaning.jpg",
+    "duct-cleaning.jpg",
+    "other-works.jpg"
+  ],
+  "Cleaning": [
+    "Balcony-Cleaning.jpg",
+    "Dusting-&-Mopping.jpg",
+    "Bathroom-Cleaning.jpg",
+    "Iron-and-Fold-to-cloths.jpg",
+    "Kitchen-Cleaning.jpg",
+    "maid-services.jpg",
+    "Bedroom-Cleaning.jpg",
+    "Refrigerator-Cleaning.jpg",
+    "maid-services-with-supply.jpg",
+    "Staircase-cleaning.jpg",
+    "Living-Room-Cleaning.jpg",
+    "Oven-&-Microwave-Cleaning.jpg",
+    "Utensil-CLeaning.jpg",
+    "Machine-Laundry.jpg",
+    "Party-clean-up.jpg",
+    "Window-cleaning.jpg"
+  ],
+  "Deep Cleaning": [
+    "Bathroom-Deep-Cleaning.jpg",
+    "Home-Deep-Cleaning.jpg",
+    "Matress-Deep-Cleaning.jpg",
+    "sofa-Deep-Cleaning.jpg",
+    "carpet-Deep-Cleaning.jpg",
+    "Kitchen-Deep-Cleaning.jpg",
+    "office-Deep-Cleaning.jpg",
+    "villa-Deep-Cleaning.jpg"
+  ],
+  "Disinfection": [
+    "Addon-Cleaning.jpg",
+    "Apartment-Disinfection.jpg",
+    "Office-Disinfection.jpg",
+    "Villa-Disinfection.jpg"
+  ],
+  "Handymen": [
+    "Baby-gate-installation.jpg",
+    "Fencing-installation.jpg",
+    "Furniture-assembly.jpg",
+    "Plumbing.jpg",
+    "Electrical-work.jpg",
+    "Fixing-curtains.jpg",
+    "Lock-repair.jpg",
+    "TV-mounting.jpg"
+  ],
+  "Ladies Salon": [
+    "Eyelash.jpg",
+    "Facial.jpg",
+    "Hair.jpg",
+    "Henna.jpg",
+    "Makeup.jpg",
+    "Massage.jpg",
+    "Nails.jpg",
+    "Threading.jpg",
+    "Wax.jpg"
+  ],
+  "Men's Salon": [
+    "Child-haircut.jpg",
+    "Haircut.jpg",
+    "Head-massage.jpg",
+    "Head-shave.jpg",
+    "Shave.jpg"
+  ],
+  "Painters": [
+    "in-out-painting.jpg",
+    "Villa-painting.jpg",
+    "wall-painting.jpg",
+    "Wall-Texture.jpg",
+    "water-proofing.jpg",
+    "Wood-Polishing.jpg"
+  ],
+  "Pest Control": [
+    "Ant-Control.jpg",
+    "bed-pest-control.jpg",
+    "Cockroach-Control.jpg",
+    "general-pest-control.jpg",
+    "Rodent-Control.jpg"
+  ]
+}
